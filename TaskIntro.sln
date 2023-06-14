@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskIntro", "TaskIntro\TaskIntro.csproj", "{DDE2E550-82A7-41AD-B728-A3950A6608EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskIntro", "TaskIntro\TaskIntro.csproj", "{DDE2E550-82A7-41AD-B728-A3950A6608EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskIO", "TaskIO\TaskIO.csproj", "{26684C5E-FB95-4A17-B04C-6CC55C85290B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskIO", "TaskIO\TaskIO.csproj", "{26684C5E-FB95-4A17-B04C-6CC55C85290B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskChaining", "TaskChaining\TaskChaining.csproj", "{E39870A7-4ACF-4C43-8F20-8C380224EB8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{26684C5E-FB95-4A17-B04C-6CC55C85290B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26684C5E-FB95-4A17-B04C-6CC55C85290B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26684C5E-FB95-4A17-B04C-6CC55C85290B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39870A7-4ACF-4C43-8F20-8C380224EB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39870A7-4ACF-4C43-8F20-8C380224EB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39870A7-4ACF-4C43-8F20-8C380224EB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39870A7-4ACF-4C43-8F20-8C380224EB8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
